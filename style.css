@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+body {
+    font-family: "Marcellus";
+    color: rgb(23, 24, 104);
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
+    font-size: 1.2em;
+    font-weight: normal;
+    text-align: justify;
+  }
+  nav {
+background-color:rgb(60, 133, 123);
+  }
+  #headerTitle {
+      background-color: rgb(94, 209, 194);
+      color: rgb(76, 119, 81);
+      font-size: 2.5em;
+  }
+  footer {
+    background-color: rgb(60, 133, 123);
+  }
+  .nav-bar {
+      text-decoration: none;
+  }
+  .navbar a:hover {
+      background-color: tomato;
+      overflow: hidden;
+      text-decoration: none;
+  }
+  .myGithub a:hover {
+    background-color: tomato;
+    overflow: hidden;
+    text-decoration: none;
+  }
+    #headerContact{
+      color:rgb(76, 119, 81);
+  }
+  #contactinfo a:hover {
+    background-color: tomato;
+    overflow: hidden;
+    text-decoration: none;
+  }
+  #info-aboutme{
+      color: rgb(76, 119, 81);
+      width: 500px;
+      padding: 10px;
+      border: 5px solid gray;
+      margin: 0;
+  }
+  
